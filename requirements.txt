@@ -1,0 +1,7 @@
+requests
+flask
+pyOpenSSL
+ndg-httpsclient
+pyasn1
+joblib
+flask-cors
